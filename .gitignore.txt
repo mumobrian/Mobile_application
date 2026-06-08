@@ -1,0 +1,15 @@
+.dart_tool/
+.packages
+.pub/
+build/
+
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/
+
+firebase_app_id_file.json
