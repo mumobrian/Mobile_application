@@ -50,20 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAUCbmXDRs-ltjRwLoU_oqLkFdQssac-ak',
-    appId: '1:912119050897:android:e685f56663586756994530',
-    messagingSenderId: '912119050897',
-    projectId: 'campusflow-d9d9e',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
     storageBucket: 'campusflow-d9d9e.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyB3F_-C0aWfrIhZdbtXRMCfFPe0KvIh91w',
-    appId: '1:912119050897:ios:7adc67e93f624c63994530',
-    messagingSenderId: '912119050897',
-    projectId: 'campusflow-d9d9e',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
     storageBucket: 'campusflow-d9d9e.firebasestorage.app',
-    iosClientId: '912119050897-v7ijcm49psramj89v801vcol3cp27l2i.apps.googleusercontent.com',
+    iosClientId: '',
     iosBundleId: 'com.example.campusFlow',
   );
 }
