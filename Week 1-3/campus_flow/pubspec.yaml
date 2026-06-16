@@ -1,0 +1,33 @@
+name: campus_flow
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.5
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  firebase_core: ^4.10.0
+  firebase_auth: ^6.5.2
+  shared_preferences: ^2.3.3
+
+  # SQLite & local storage
+  sqflite: ^2.3.0
+  path_provider: ^2.1.0
+  path: ^1.9.0
+
+  # Optional – for date formatting (used in tyre dialogs)
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true

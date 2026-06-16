@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1031478365934",
+    "project_id": "primefleet-d789f",
+    "storage_bucket": "primefleet-d789f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031478365934:android:9833b0571ee9f84f006dff",
+        "android_client_info": {
+          "package_name": "com.company.primefleet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVMwpUx3rUqyJOVvgzff16tGO1t74TAuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

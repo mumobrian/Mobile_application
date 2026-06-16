@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "1031478365934",
+    "project_id": "primefleet-d789f",
+    "storage_bucket": "primefleet-d789f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031478365934:android:f295208b96962a4c006dff",
+        "android_client_info": {
+          "package_name": "com.company.appname"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031478365934-7u3td099u7g8qilhaci5pd5l6r963uiv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVMwpUx3rUqyJOVvgzff16tGO1t74TAuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031478365934-7u3td099u7g8qilhaci5pd5l6r963uiv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1031478365934-l62qa88fp7k5i5hak18sn2kq87hk9pnr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.primefleet.primefleet"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031478365934:android:9833b0571ee9f84f006dff",
+        "android_client_info": {
+          "package_name": "com.company.primefleet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031478365934-7u3td099u7g8qilhaci5pd5l6r963uiv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVMwpUx3rUqyJOVvgzff16tGO1t74TAuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031478365934-7u3td099u7g8qilhaci5pd5l6r963uiv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1031478365934-l62qa88fp7k5i5hak18sn2kq87hk9pnr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.primefleet.primefleet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1",
+
+}
